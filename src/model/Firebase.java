@@ -42,7 +42,7 @@ public class Firebase {
 
     public void saveItem(Item item) {
         if (item != null) {
-            DatabaseReference databaseReference = firebaseDatabase.getReference("/items");
+            DatabaseReference databaseReference = firebaseDatabase.getReference("/productos");
             CountDownLatch countDownLatch = new CountDownLatch(1);
             databaseReference.push().setValue(item, new DatabaseReference.CompletionListener() {
                 @Override
