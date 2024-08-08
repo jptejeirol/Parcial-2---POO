@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "supermercado-6da04",
+  "private_key_id": "8947a2815b8ae7a588eacf2abc74e273a8e20684",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTRixnxKtLKfgD\nu2W7PHUvp5pj+BZx6MTwk/JlLe24EoHfKsRFeT96nsmTosOEptOTPYUFFVgDI5AG\nmR8b6joA+3mW1MJtUCyrfxdkiI7i7ulKm3mNi/xwLD3uZU2zpTY5yS8Hv8g8lubI\nO47kHpumffZtpThw6fZgsRJpx5aWxFuBfjXFOrosjIawNCJ1sv1dIZgWwaW/ZJ3Z\nb912qS4bcDScsciDngiclnTjQoZB2QgxZID6uO6FEp686LbFT0hIDPR/7ehNnL8U\nk/xhvWPPI2AqeyUVGJZpORbwh+yinQorwdJbJ8ahiuIxBP41VcZmdA7oVoRY31wH\nzUR47yLTAgMBAAECggEASzy5sohwgbdj6ZxSKZ/pkXtruT8Payg7/fqJvytgdQUu\nN7WIqL75cqbaXReA7hvky5IEbV+A9Lk04Iyl7fB3EIN9dM+2n2wGRFphj70ruTfg\nX1/HpTcdQisXMO7lgVyL139EHsvWuHD6pYLEK4uU3XENEVXdqCRBR4S3bHEVuQF1\neq33o43QiniXHil0qCSHGD3BUqYsngq7Sq8TNnutOJcClRYAEtGigbw2N28h4EAZ\nmikCcDM7IrisQyoNHF0eioMCKPircxIzlPEiub79KT01NpzMidqr8S/G2d9PKwWp\nEx6K6LWbWx1U5drCDRLeNLKxutnvup6JA7Qx3PvohQKBgQDpMX3SvLRMxR+380VY\nCUcNX7YM2QSMi/nNow0sIkffZuky1PdB1LykyfQME1UPeTR2aYBORCiSVb5RgKy7\neuApor1PkmlxLAVIxjLZz0iSx/fSWT4yKeh7VMG/XWlNJtlM5e3EJv2IIgSGgqyy\ni6py1V55nEP5xRLmjFOlmVDonwKBgQDn7+LgcnbW4PcxBeGdCy9WLJaj8cR0qdnn\nWNRjM8gNREYJIkQNvaziHD1PBcJ2TWrYwiR1eqkMMagmHyK2JKNKEKoG5GSiWhdg\nHUNrDnmWy+wqJkUGokCy2TyWEwyfVlRMebitMlgPmQaUgmbA9MT2oZPJrdqPZclK\n+vXBi2f1TQKBgHHOJYnjblrJGWG85+q/HF36h+5dO0scRR2GpbcUQ99TahvUs5b9\nK9OAfAoopSqYDHJ9qpCH0wUXs3ozQhl9LkkjkyByY+NHiIyrrcV+0/xOezO9Og1h\nRoRqKOQrwmhUvVg6Hn/MR49YirzaqU25u8WvPBw9ly8ebsr1UR1QZZwhAoGARp4h\nY9k2GcKxQLnbsacgKIq26v/HowW8FNZVBEdV18Q71rgaJFzl8IpMmGzWgpKbv5eM\n5kAMjGvqGIFOXkrVdM2SFzse8NehWmBOkJ/9oU5Bf6vbRGPOcyX1bnQqWbE9RXOi\nKQm1Cjq7aCg0BPgBqF4V00gdzZ9eJHg4r080vdkCgYEAkmiENHMGwo0xtSqSUTuP\nGNoks4T92DekWLX4YPSuLiFMfM13Bk59qVZXqbMPKggwdWDHoCmoJCcIuml4qfgq\n+OjGxDNvFcrfDV5c9UG+aiZUW3mlsm46GRX+r32NcxvN/1IqdWaDHX9fcoLMfI5q\nmcjfhqo41E2yd0CE/WOlifc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-102he@supermercado-6da04.iam.gserviceaccount.com",
+  "client_id": "113491875946243495149",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-102he%40supermercado-6da04.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
